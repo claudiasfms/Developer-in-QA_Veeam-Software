@@ -12,3 +12,7 @@ folder;
 - It is allowed (and recommended) to use external libraries implementing other well-known algorithms. For example, there is no point in implementing yet
 another function that calculates MD5 if you need it for the task – it is perfectly acceptable to use a third-party (or built-in) library;
 - The solution should be presented in the form of a link to the public GitHub repository
+
+
+Usage
+python main.py /path/to/source/folder /path/to/replica/folder 60 sync_log.txt
