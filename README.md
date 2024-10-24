@@ -14,5 +14,5 @@ another function that calculates MD5 if you need it for the task – it is perfe
 - The solution should be presented in the form of a link to the public GitHub repository
 
 
-Usage
+# Usage
 python main.py /path/to/source/folder /path/to/replica/folder 60 sync_log.txt
