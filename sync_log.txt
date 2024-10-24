@@ -1,0 +1,14 @@
+2024-10-24 11:15:37,283 [INFO]: Copied: /source_folder\test.txt to /replica_folder\.\test.txt
+2024-10-24 11:15:37,283 [INFO]: Synchronization complete.
+2024-10-24 11:16:37,299 [INFO]: Copied: /source_folder\test.txt to /replica_folder\.\test.txt
+2024-10-24 11:16:37,299 [INFO]: Synchronization complete.
+2024-10-24 11:17:37,301 [INFO]: Copied: /source_folder\test.txt to /replica_folder\.\test.txt
+2024-10-24 11:17:37,301 [INFO]: Synchronization complete.
+2024-10-24 11:18:37,316 [INFO]: Copied: /source_folder\test.txt to /replica_folder\.\test.txt
+2024-10-24 11:18:37,316 [INFO]: Synchronization complete.
+2024-10-24 11:19:37,320 [INFO]: Copied: /source_folder\test.txt to /replica_folder\.\test.txt
+2024-10-24 11:19:37,324 [INFO]: Synchronization complete.
+2024-10-24 11:20:37,338 [INFO]: Copied: /source_folder\test.txt to /replica_folder\.\test.txt
+2024-10-24 11:20:37,338 [INFO]: Synchronization complete.
+2024-10-24 11:21:37,343 [INFO]: Copied: /source_folder\test.txt to /replica_folder\.\test.txt
+2024-10-24 11:21:37,344 [INFO]: Synchronization complete.
